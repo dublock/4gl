@@ -9,7 +9,7 @@
   File: neb_nf_canceladas_devolvidas
 
   Description: Programa para analisar as notas que foram Canceladas ou devolvidas em 
-  um determinado per¡odo.
+  um determinado perÂ¡odo.
 
   Input Parameters:
       <none>
